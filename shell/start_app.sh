@@ -1,0 +1,1 @@
+cd /root/pinkacg && ./pinkacg config.yaml
